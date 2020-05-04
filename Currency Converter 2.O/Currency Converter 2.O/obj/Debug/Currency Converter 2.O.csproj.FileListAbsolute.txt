@@ -1,0 +1,11 @@
+c:\users\ritesh.kumar\documents\visual studio 2015\Projects\Currency Converter 2.O\Currency Converter 2.O\bin\Debug\Currency Converter 2.O.exe.config
+C:\Users\Ritesh.kumar\Documents\Visual Studio 2015\Projects\Currency Converter 2.O\Currency Converter 2.O\bin\Debug\Currency Converter 2.O.exe
+C:\Users\Ritesh.kumar\Documents\Visual Studio 2015\Projects\Currency Converter 2.O\Currency Converter 2.O\bin\Debug\Currency Converter 2.O.pdb
+C:\Users\Ritesh.kumar\Documents\Visual Studio 2015\Projects\Currency Converter 2.O\Currency Converter 2.O\obj\Debug\Currency Converter 2.O.csprojResolveAssemblyReference.cache
+C:\Users\Ritesh.kumar\Documents\Visual Studio 2015\Projects\Currency Converter 2.O\Currency Converter 2.O\obj\Debug\Currency_Converter_2.O.Form1.resources
+C:\Users\Ritesh.kumar\Documents\Visual Studio 2015\Projects\Currency Converter 2.O\Currency Converter 2.O\obj\Debug\Currency_Converter_2.O.Properties.Resources.resources
+C:\Users\Ritesh.kumar\Documents\Visual Studio 2015\Projects\Currency Converter 2.O\Currency Converter 2.O\obj\Debug\Currency Converter 2.O.csproj.GenerateResource.Cache
+C:\Users\Ritesh.kumar\Documents\Visual Studio 2015\Projects\Currency Converter 2.O\Currency Converter 2.O\obj\Debug\Currency Converter 2.O.exe
+C:\Users\Ritesh.kumar\Documents\Visual Studio 2015\Projects\Currency Converter 2.O\Currency Converter 2.O\obj\Debug\Currency Converter 2.O.pdb
+C:\Users\Ritesh.kumar\Documents\Visual Studio 2015\Projects\Currency Converter 2.O\Currency Converter 2.O\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Ritesh.kumar\Documents\Visual Studio 2015\Projects\Currency Converter 2.O\Currency Converter 2.O\bin\Debug\Newtonsoft.Json.xml
